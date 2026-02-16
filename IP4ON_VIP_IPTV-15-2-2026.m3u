@@ -1,5 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="mbc1" tvg-name="MBC1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MBC_1_Logo.svg/500px-MBC_1_Logo.svg.png" group-title="MBC",MBC1 HD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
 
+#EXTINF:-1 tvg-id="mbc2" tvg-name="MBC2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="MBC",MBC2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+
+#EXTINF:-1 tvg-id="mbc3" tvg-name="MBC3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/MBC_3_Logo.svg/1280px-MBC_3_Logo.svg.png" group-title="MBC",MBC3 HD
+https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
+
+#EXTINF:-1 tvg-id="mbc4" tvg-name="MBC4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/MBC_4_Logo.svg/960px-MBC_4_Logo.svg.png" group-title="MBC",MBC4 HD
+https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+
+#EXTINF:-1 tvg-id="mbc5" tvg-name="MBC5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MBC_5_Logo.svg/500px-MBC_5_Logo.svg.png" group-title="MBC",MBC5 HD
+https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
+
+#EXTINF:-1 tvg-id="mbcaction" tvg-name="MBC Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MBC_Action_Logo.svg/500px-MBC_Action_Logo.svg.png" group-title="MBC",MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
+
+#EXTINF:-1 tvg-id="mbcdrama" tvg-name="MBC Drama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MBC_Drama_Logo.svg/500px-MBC_Drama_Logo.svg.png" group-title="MBC",MBC Drama HD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
+
+#EXTINF:-1 tvg-id="mbcdramaplus" tvg-name="MBC Drama+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_MBC_Drama_%2B.png" group-title="MBC",MBC Drama+ HD
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
+
+#EXTINF:-1 tvg-id="mbcmax" tvg-name="MBC Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MBC_Max_Logo.svg/3840px-MBC_Max_Logo.svg.png" group-title="MBC",MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+
+#EXTINF:-1 tvg-id="mbcpersia" tvg-name="MBC Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/MBC_Persia_Logo.svg/500px-MBC_Persia_Logo.svg.png" group-title="MBC",MBC Persian
+https://shls-mbcpersia-prod.shahid.net/mbcpersia-prod.m3u8
+
+#EXTINF:-1 tvg-id="mbciraq" tvg-name="MBC Iraq HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MBC_Iraq.svg/960px-MBC_Iraq.svg.png" group-title="MBC",MBC Iraq HD
+https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
 
 
 #EXTINF:-1 tvg-id="AlerthAlnabawiChannel.jo@SD" tvg-logo="https://i.imgur.com/iYibJxK.png" group-title="Religious",Alerth Alnabawi Channel (576p)
